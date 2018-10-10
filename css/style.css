@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  margin: 0;
+  color: #FFFFFF;
+  background-color: #404040;
+}
+header {
+  background-color: #444444;
+  padding: 30px 20px 30px 20px;
+}
+p {
+  font-size: 20px;
+}
+h1 {
+  font-size: 35px;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
+}
+.yellow {
+  color: yellow;
+}
+.white {
+  color: white;
+}
+h2 {
+  font-size: 28px;
+}
+.square {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  background: #404040;
+  border: 25px solid;
+  border-radius: 20px;
+  border-top-color: green;
+  border-bottom-color: red;
+  border-right-color: yellow;
+  border-left-color: blue;
+}
